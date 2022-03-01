@@ -1,0 +1,1807 @@
+id: aa4c5976b6174bdcbf9fc7013bc2dfc3
+annotation_type: index
+revision: '00001'
+annotations:
+  da532f4b149049d4a043af2c3f101812:
+    work_id: WBF0403CF
+    span:
+      vol: CIII_§40. śrāvakabhūmayaḥ
+      start: 0
+      end: 125
+  0e8f49fc1b5843419269d9f7e91fa0b6:
+    work_id: W534A7DE9
+    span:
+      vol: CIII_§41. pañcendriyāṇi
+      start: 0
+      end: 90
+  4d2b74fec0a545f6a31c0f546f561e6e:
+    work_id: W54DF49C4
+    span:
+      vol: CIII_§42. pañcabalāni
+      start: 0
+      end: 78
+  b71a0154a3ab4cb4a3d35f7504fa9faf:
+    work_id: WC4C73BCF
+    span:
+      vol: CIII_§43. saptabodhyaṅgāni
+      start: 0
+      end: 176
+  a58bf0e534bd4e2a9fb880292cda6666:
+    work_id: W7172387A
+    span:
+      vol: CIII_§44. aṣṭāṅgamārganāmāni
+      start: 0
+      end: 139
+  ec198762aa4f4ffcad5c66c803d10ab1:
+    work_id: W3B9090EE
+    span:
+      vol: CIII_§45. pratyekabuddhapudgalāḥ
+      start: 0
+      end: 55
+  e5124fb2583d446fa68427deadf0563e:
+    work_id: W30287BD7
+    span:
+      vol: CIII_§46. śrāvakapudgalakramāḥ
+      start: 0
+      end: 383
+  dc58415c48cd46b58de08c5395ec2a6c:
+    work_id: WE441B1FD
+    span:
+      vol: CIII_§47. nānāśrāvakanāmāni
+      start: 0
+      end: 644
+  38ba2cc4f4bc4275952cb008e3904894:
+    work_id: W4854D050
+    span:
+      vol: CIII_§48. śrāvakaguṇāḥ
+      start: 0
+      end: 1009
+  2a08e0aa9da949108eca743f39a82f15:
+    work_id: WA0870F7F
+    span:
+      vol: CIII_§49. dvādaśadhūtaguṇāḥ
+      start: 0
+      end: 206
+  c5a33629172c41a2b760cd9b98655900:
+    work_id: W71C9918F
+    span:
+      vol: CIII_§51. ṣaḍanusmṛtayaḥ
+      start: 0
+      end: 110
+  22a4ef6238ce434b8d293c0389009445:
+    work_id: WD77CD4C3
+    span:
+      vol: CIII_§52.aśubhabhāvanāḥ
+      start: 0
+      end: 189
+  539c497ba09d4a6f8385a62f2d54a121:
+    work_id: WBAE5251B
+    span:
+      vol: CIII_§53. ānāpānabhāvanāvidhiḥ
+      start: 0
+      end: 1436
+  1c6f35d4082f4bd5aae016d4727de54a:
+    work_id: W0644E756
+    span:
+      vol: CIII_§54. ṣoḍaśabhir ākārair visāritāni catvāry āryasatyāni
+      start: 0
+      end: 304
+  fa55b38fc86248c3a6eeca567b2a8753:
+    work_id: W28771722
+    span:
+      vol: CIII_§55. nirvedhabhagakramaḥ
+      start: 0
+      end: 90
+  ab755c9c49c4464e887e37b314e26b6d:
+    work_id: W3DCBAE28
+    span:
+      vol: CIII_§56. ṣoḍaśacittakṣaṇāḥ
+      start: 0
+      end: 411
+  b862e35db51444888aff4a7b4c27c335:
+    work_id: W2D04F4E7
+    span:
+      vol: CIII_§57. daśajñānāni
+      start: 0
+      end: 174
+  0fdd6dec547b4b8a9c8d8eb281b1e865:
+    work_id: W1C9A0E06
+    span:
+      vol: CIII_§58. catvāraḥ pratipadaḥ
+      start: 0
+      end: 141
+  c5874c542aad470da675ad8efb87f57d:
+    work_id: W2014DD24
+    span:
+      vol: CIII_§59. yānakramaḥ
+      start: 0
+      end: 95
+  7ad84341319c4d478ce5b973b6ff9650:
+    work_id: W0B161446
+    span:
+      vol: CIII_§60. indriyavaimātratā
+      start: 0
+      end: 63
+  cb127279e4f643dda18c7379c70d1c90:
+    work_id: W68588A05
+    span:
+      vol: CII_[saptatriṃśadbodhipakṣa]
+      start: 0
+      end: 0
+  89ed5c33b1bc4a61ae2120aa18ca5576:
+    work_id: WA2CDEDAA
+    span:
+      vol: CII_§21. prajñāpāramitodbhāvitasamādhināmāni
+      start: 0
+      end: 3644
+  e918b875c3ca486baef9cbbac2b5c5f2:
+    work_id: WB905D225
+    span:
+      vol: CII_§22. bodhisatvānāṃ sādhāraṇanāmāni
+      start: 0
+      end: 277
+  ba8b8fda2e1f42009cc791ce2097c6db:
+    work_id: WE634345C
+    span:
+      vol: CII_§24. bodhisatvasamādhayaḥ
+      start: 0
+      end: 178
+  1359259182734622b987696a449b4467:
+    work_id: WE1766EEE
+    span:
+      vol: CII_§25. bodhisattvadhāraṇyaḥ
+      start: 0
+      end: 259
+  78fb2d1034e5465480b37e4d0f659de7:
+    work_id: WCAE70AEA
+    span:
+      vol: CII_§26. bodhisattvabalāni
+      start: 0
+      end: 170
+  e286b31b48a04c7799d9d0d0e3be0cd6:
+    work_id: WAC91441A
+    span:
+      vol: CII_§26. nānābodhisattvanāmāni
+      start: 0
+      end: 1688
+  4075a27a80bf4e6a96340afdd13fcce4:
+    work_id: W0AE4B2B9
+    span:
+      vol: CII_§27. bodhisattvavaśitā
+      start: 0
+      end: 181
+  027659b73aa14bac80f7f72678ef79e1:
+    work_id: W6E203B88
+    span:
+      vol: CII_§28. bodhisattvānāṃ catvāri vaiśāradyāni
+      start: 0
+      end: 408
+  3e23ee36168e4e98a2a19b756fb71670:
+    work_id: W044F0434
+    span:
+      vol: CII_§29. aṣṭādaśāveṇikabodhisattvadharmāḥ
+      start: 0
+      end: 720
+  37abcf6086cb4e6ab7c0e914b0f95cc2:
+    work_id: W30493349
+    span:
+      vol: CII_§30. bodhisattvānāṃ sūtrāntanirgatāni kāni cid guṇanāmāni
+      start: 0
+      end: 2376
+  f0537ef7d29e449d88a796d63456ce0c:
+    work_id: WC4B01B9A
+    span:
+      vol: CII_§31. daśabhūmināmāni
+      start: 0
+      end: 124
+  7ee7a8623a98419fbbe11804acfa6025:
+    work_id: WA4FFE014
+    span:
+      vol: CII_§32. adhimukticaryābhūmināmāni
+      start: 0
+      end: 125
+  2552fac3f49d46a6808145a10e1cf28d:
+    work_id: W4FC39124
+    span:
+      vol: CII_§33. daśadharmacaryāḥ
+      start: 0
+      end: 116
+  3a1691e7c6c94d69b6f5be72c68f1774:
+    work_id: W9C520B6B
+    span:
+      vol: CII_§34. daśapāramitāḥ
+      start: 0
+      end: 170
+  5f4da3f1b8bc43eb99615b66060274e9:
+    work_id: W46777135
+    span:
+      vol: CII_§35. catvāri saṃgrahavastūni
+      start: 0
+      end: 71
+  c82cdb4da8cc48b4a13e3466e6134d88:
+    work_id: WEFA8566F
+    span:
+      vol: CII_§36. ṭrīṇi śikṣāṇi
+      start: 0
+      end: 50
+  8289f962fb74495c81e64de18011d4a4:
+    work_id: WB50C8DDD
+    span:
+      vol: CII_§37. aṣṭadaśaśūnyatā
+      start: 0
+      end: 343
+  e297912e52b242ff8b8adf2f71903487:
+    work_id: WAF0B8F0C
+    span:
+      vol: CII_§38. catvāri smṛtyupasthānanāmāni
+      start: 0
+      end: 119
+  89168955554b4226888965b043c3ade3:
+    work_id: WAFF8207E
+    span:
+      vol: CII_§39. catvāri prahāṇāni
+      start: 0
+      end: 396
+  e077feed98574f40a0eefd397afab9e2:
+    work_id: W19997E2D
+    span:
+      vol: CII_§40. catvāra ṛddhipādāḥ
+      start: 0
+      end: 326
+  59535707b816485bad0de1a0771157f2:
+    work_id: W3CBD9355
+    span:
+      vol: CIV_§61. pañcagotrāḥ
+      start: 0
+      end: 132
+  da5c98c338954a60aa6efda7e8b5eaf5:
+    work_id: WA5F98346
+    span:
+      vol: CIV_§62. dvādaśakadharmapravacanam
+      start: 0
+      end: 166
+  21d6af9b1d084af1a5b19bf0945cd1e1:
+    work_id: WAB9DCFF3
+    span:
+      vol: CIV_§63. dharmaparyāyaḥ
+      start: 0
+      end: 556
+  1f6abaa9733c4f908ce923364f6a2851:
+    work_id: W3E71E1DB
+    span:
+      vol: CIV_§64. dharmacakranāmāni
+      start: 0
+      end: 518
+  faa245e27fda42bf938982f10eb39921:
+    work_id: W96155A6A
+    span:
+      vol: CIV_§65. saddharmanāmāni
+      start: 0
+      end: 2113
+  214ca731b1b646d0a76ad14cbc57c9e9:
+    work_id: W59B93DBC
+    span:
+      vol: CIV_§66. kaṇṭhoktakārikā_ādīnāṃ nāmāni
+      start: 0
+      end: 493
+  09d55c89b23848148c38b118ad4e0840:
+    work_id: W807DCA44
+    span:
+      vol: CIV_§67. catvāri dhyānāni
+      start: 0
+      end: 819
+  d94f280417c54db6b3751eb69796fbab:
+    work_id: W9DFBDBBF
+    span:
+      vol: CIV_§68. samāpattināmāni
+      start: 0
+      end: 636
+  39f2174df74845a5a948f485a7f15e03:
+    work_id: W0EE5F376
+    span:
+      vol: CIV_§69. catvāry apramāṇāni
+      start: 0
+      end: 309
+  37b194e400534a01a61f72965436fe7a:
+    work_id: WF7DC9C24
+    span:
+      vol: CIV_§70. aṣṭau vimokṣāḥ
+      start: 0
+      end: 640
+  0539d4f150c04d1a9ace1da9cb4aa73b:
+    work_id: WB89823CA
+    span:
+      vol: CIV_§71. aṣṭāv abhibhvāyatanāni
+      start: 0
+      end: 2082
+  2dc4d46cfcfc4671abcfe61e96a80365:
+    work_id: WB878C868
+    span:
+      vol: CIV_§72. daśakṛtsnāyatanāni
+      start: 0
+      end: 395
+  588d02e202ce4bdc95427e4bae793e3f:
+    work_id: W7C4C41C5
+    span:
+      vol: CIV_§73. trīṇi vimokṣamukhāni
+      start: 0
+      end: 55
+  97ee8be8e25040028f02d097fe4cd891:
+    work_id: W6C1314A1
+    span:
+      vol: CIV_§74. catvāri pratisaraṇāni
+      start: 0
+      end: 263
+  509ba093c858400b82249ee9b5f60417:
+    work_id: WAF9064E2
+    span:
+      vol: CIV_§75. trividhāḥ prajñāḥ
+      start: 0
+      end: 75
+  9e9906af983f46f1b39e4fba18f21544:
+    work_id: W269505F2
+    span:
+      vol: CIV_§76. pañcavidyāsthānāni
+      start: 0
+      end: 97
+  ee425ba9b67245d4ab01b01b36b7924d:
+    work_id: W4641B10C
+    span:
+      vol: CIV_§77. catvāri dharmasamādānāni
+      start: 0
+      end: 195
+  90a0feebba754800a0c2e8b6f50d38d7:
+    work_id: WF626A288
+    span:
+      vol: CIV_§78. saptadhanāni
+      start: 0
+      end: 109
+  1e02a60aca3049d78078230623d1736c:
+    work_id: W66E13B18
+    span:
+      vol: CIV_§79. ṣaḍanuttaryāṇi
+      start: 0
+      end: 124
+  b50104179d5f4343958802cbb9f302e4:
+    work_id: W41E99791
+    span:
+      vol: CIV_§80. catvāry adhiṣṭhānāni
+      start: 0
+      end: 93
+  e683e0aaf0794646ab514cb7c82d8962:
+    work_id: W9686C4FC
+    span:
+      vol: CIX_§161. bsam gtan bźi pa’i sa’i miṅ la
+      start: 0
+      end: 41
+  f1f2d1d8e75f4b96a037ee4d617f3f55:
+    work_id: W3DFB5569
+    span:
+      vol: CIX_§162. gnas gtsaṅ ma’i sa’i miṅ la
+      start: 0
+      end: 71
+  2df9444ff9b347feb5ffe3519ee1f346:
+    work_id: WD405EADD
+    span:
+      vol: CIX_§163. gzugs med pa’i miṅ la
+      start: 0
+      end: 88
+  1f1b17cdd887495085b5ada1ec268963:
+    work_id: WD874CDAA
+    span:
+      vol: CIX_§164. laukikadevatāḥ
+      start: 0
+      end: 751
+  f8cc209fcb1447138f8e51522878d135:
+    work_id: W99A9027C
+    span:
+      vol: CIX_§165. navagrahāḥ
+      start: 0
+      end: 94
+  ba056830814f42679dfe7e31161e5f10:
+    work_id: W4974DA84
+    span:
+      vol: CIX_§166. aṣṭāviṃśati nakṣatrāṇi
+      start: 0
+      end: 306
+  aefddc523f774b12bd6de00e4533458d:
+    work_id: WD7BD3446
+    span:
+      vol: CIX_§167. devanāganāmāni
+      start: 0
+      end: 109
+  92411c0706074faa98068f729a295b84:
+    work_id: W19014C82
+    span:
+      vol: CIX_§168. nāgarājanāmāni
+      start: 0
+      end: 1600
+  775a64d8890d4d5685db79cdbeb7b387:
+    work_id: W9C3DF8EF
+    span:
+      vol: CIX_§169. klu phal pa’i miṅ la
+      start: 0
+      end: 713
+  caf7b77ffa4541dea46f2fd23d38d701:
+    work_id: W9308B4A9
+    span:
+      vol: CIX_§170. yakṣāḥ
+      start: 0
+      end: 220
+  0a300573022347aa88ffaff51fa1d4f4:
+    work_id: WBB18E9DB
+    span:
+      vol: CIX_§171. gandharvā yathā
+      start: 0
+      end: 282
+  898f7ca7c551403b80975139d11ba6b2:
+    work_id: W803349DE
+    span:
+      vol: CIX_§172. asurā yathā
+      start: 0
+      end: 167
+  79f0fc66b38c4652a1f3b45b77aeea1b:
+    work_id: WDB1171F4
+    span:
+      vol: CIX_§173. garuḍendranāmāni
+      start: 0
+      end: 255
+  70ead8cba96c4fe7b659e05d041d0856:
+    work_id: W1E181593
+    span:
+      vol: CIX_§174. kinnarā yathā
+      start: 0
+      end: 210
+  984539d3126b4de78bf63137489d6df9:
+    work_id: W3A7C3C41
+    span:
+      vol: CIX_§175. mahoragādhipatināmāni
+      start: 0
+      end: 224
+  ad9e1f201af646e89b363b70217b7d65:
+    work_id: W4FA69E96
+    span:
+      vol: CIX_§176. kuṃbhāṇḍanāmāni
+      start: 0
+      end: 191
+  a3e69efaec5147ccb28acba3a61d7f7a:
+    work_id: W429F6306
+    span:
+      vol: CIX_§177. maharṣināmāni
+      start: 0
+      end: 293
+  fbf22425bde44b8c822ce6e08a462fb7:
+    work_id: WEC25CED0
+    span:
+      vol: CIX_§178. pūrvopadhyāyanāmāni
+      start: 0
+      end: 527
+  cb8dc06651f44016b40a7c98774b227b:
+    work_id: W0020DF0E
+    span:
+      vol: CIX_§179. tīrthikāḥ
+      start: 0
+      end: 392
+  8decca1125be433e99c3233edfafe793:
+    work_id: W4437CB70
+    span:
+      vol: CIX_§180. ṣaṭ śāstāraḥ
+      start: 0
+      end: 140
+  e6db84d42106465195477fa81e3c7479:
+    work_id: W15A25A6B
+    span:
+      vol: CI_§1. tathāgatasya paryāyanāmāni
+      start: 0
+      end: 980
+  0b8296f2f722456495c45fd66ad50f68:
+    work_id: W9F990634
+    span:
+      vol: CI_§10. dvātriṃśat tathāgatasya mahākaruṇāḥ
+      start: 0
+      end: 1610
+  946633d7ed8847ed8414ddc62d344917:
+    work_id: W2E68DB87
+    span:
+      vol: CI_§11. trīṇy āvenikāni smṛtyupasthānāni nāmāni
+      start: 0
+      end: 134
+  753df06802af4e278efccfec8e589fe5:
+    work_id: W466207AC
+    span:
+      vol: CI_§12. catvāry arakṣyāṇi
+      start: 0
+      end: 335
+  30bbb3ebe0624ceb9990eae6bb1f70b6:
+    work_id: W4F8F01F5
+    span:
+      vol: CI_§13. catvāraḥ pratisaṃvidaḥ
+      start: 0
+      end: 104
+  e7f7da1a51ef49c19842e45e30e2b9de:
+    work_id: W92C849EF
+    span:
+      vol: CI_§14. ṣaḍabhijñānāmāni
+      start: 0
+      end: 176
+  6cb477ee04fd4ebf8ce894feaa96393a:
+    work_id: W99885AAD
+    span:
+      vol: CI_§15. abhijñākarmāṇi
+      start: 0
+      end: 1261
+  c7eb90cb65ea45319ffee6a0265463f2:
+    work_id: W2882C19F
+    span:
+      vol: CI_§16. trīṇi prātihāryāṇi
+      start: 0
+      end: 80
+  3c110a8d75e04b2085f753260ecf2cc3:
+    work_id: WD4A9BA48
+    span:
+      vol: CI_§17. dvātriṃśanmahāpuruṣalakṣaṇāni
+      start: 0
+      end: 630
+  ec6c7dcf2b454339bdae121d44cd78c2:
+    work_id: W71658A85
+    span:
+      vol: CI_§18. aśīty anuvyañjanāni
+      start: 0
+      end: 1494
+  b1a009e9c1fe4f88b02bff8a7f474c9e:
+    work_id: WA4355ABA
+    span:
+      vol: CI_§19. sūtrāntoddhṛtāni tathāgatamāhātmyanāmāni
+      start: 0
+      end: 2222
+  84da011b03154346b7f6c0f0f8c4a7a5:
+    work_id: WDFD6A308
+    span:
+      vol: CI_§2. nānātathāgatanāmāni
+      start: 0
+      end: 271
+  482ee5a11e164f4c8ed561d4bc81fadf:
+    work_id: WABEAA6DD
+    span:
+      vol: CI_§20. ṣaṣṭyaṅgasarvanāmāni
+      start: 0
+      end: 811
+  466cf130cbaa4c00af950aadbd5522fc:
+    work_id: W899A33A9
+    span:
+      vol: CI_§3. samantaprabhābuddhabhūmiḥ
+      start: 0
+      end: 27
+  0f7993bd0d114f19bf9ff2de6d638cae:
+    work_id: WD2D50F57
+    span:
+      vol: CI_§4. asamasamapañcaskandhaḥ
+      start: 0
+      end: 117
+  ef4725d9dac7494aad79d24cf214f1a6:
+    work_id: W819AF669
+    span:
+      vol: CI_§5. pañcajñānāni
+      start: 0
+      end: 106
+  686aecced6b54592b122ac0283940c7d:
+    work_id: W93A1BBAD
+    span:
+      vol: CI_§6. trikāyāḥ
+      start: 0
+      end: 52
+  5aa13d4ffdfc4fe2b91c2d2cd8245a03:
+    work_id: WA8ECAA9E
+    span:
+      vol: CI_§7. daśatathāgatabalāni
+      start: 0
+      end: 315
+  6c51418ee3b643138ca4fa25ea3e4b59:
+    work_id: WEC404143
+    span:
+      vol: CI_§8. catvāri tathāgatasya vaiśāradyāni
+      start: 0
+      end: 219
+  305fb9e2b8864e799c1d29947abaeeb8:
+    work_id: WDDE7BE4A
+    span:
+      vol: CI_§9. aṣṭādaśāveṇikabuddhadharmāḥ
+      start: 0
+      end: 641
+  f98b1d0aedd1404683787fc2ad262da2:
+    work_id: W338418BB
+    span:
+      vol: CVIII_§141. tyāgādayaḥ
+      start: 0
+      end: 384
+  b0d85ac21819428eba000033964e84ff:
+    work_id: WCF90C0CA
+    span:
+      vol: CVIII_§142. hitopakāraparyāyanāmāni
+      start: 0
+      end: 119
+  565f43263ef841e38d0d2971b833dbe8:
+    work_id: WA14F792F
+    span:
+      vol: CVIII_§143. blo daṅ bye bra phyed pa’i rnam pa’i miṅ la
+      start: 0
+      end: 131
+  70388a87a35b403ba7431076d2900c75:
+    work_id: W3ED5D5D4
+    span:
+      vol: CVIII_§144. paṇḍitaparyāyanāmāni
+      start: 0
+      end: 206
+  f08b7382bbb54ff8b40c1fc77c5ecf6e:
+    work_id: W024FB692
+    span:
+      vol: CVIII_§145. gambhīraparyāyanāmāni
+      start: 0
+      end: 238
+  61c823de5d3a46129ea2e9b2a49c6b03:
+    work_id: W9A651114
+    span:
+      vol: CVIII_§146. nandiparyāyaḥ
+      start: 0
+      end: 236
+  372ceff1ac714cdeb00077ebd7e61354:
+    work_id: W04422314
+    span:
+      vol: CVIII_§147. krodhākārāḥ
+      start: 0
+      end: 242
+  334ba05c2e624527886468e38ff56b52:
+    work_id: W2A41C48F
+    span:
+      vol: CVIII_§148. catvāraḥ puḍgalāḥ
+      start: 0
+      end: 106
+  1518d4b14c6d41e5a26394b891801a38:
+    work_id: W1212EE65
+    span:
+      vol: CVIII_§149. ihaparatrākārāṇi
+      start: 0
+      end: 175
+  37442c5b82704e808dda373b3478f1a5:
+    work_id: W2B4491A7
+    span:
+      vol: CVIII_§150. vivekādayaḥ
+      start: 0
+      end: 115
+  53ff8a6328e249319c987085a1d9f4e0:
+    work_id: W7427D74B
+    span:
+      vol: CVIII_§151. sthānanāmāni
+      start: 0
+      end: 85
+  d76126eaf7c34bfaa2ff25fab92b2975:
+    work_id: W19BBC878
+    span:
+      vol: CVIII_§152. bhūmikampitākāraḥ
+      start: 0
+      end: 499
+  0739f816f2d548b4aa5a4aed33e8ee8d:
+    work_id: WC34C56B0
+    span:
+      vol: CVIII_§153. prabhāparyāyaḥ
+      start: 0
+      end: 79
+  bb6533311f91453ea89981471b07543d:
+    work_id: W6FEAE433
+    span:
+      vol: CVIII_§154. lokadhātavaḥ
+      start: 0
+      end: 96
+  72375f9c38cf4fad8ca59e6395fcdfc4:
+    work_id: W37B0CF33
+    span:
+      vol: CVIII_§155. catvāro dvīpāḥ
+      start: 0
+      end: 376
+  81e8eca04c3e48e79523b4d9c4193246:
+    work_id: W8192BBDD
+    span:
+      vol: CVIII_§156. khams gsum gyi rim pa’i miṅ la
+      start: 0
+      end: 52
+  650455b1d6054f0c9030e2b848bcec73:
+    work_id: WEC0A009B
+    span:
+      vol: CVIII_§157. ’dod pa’i khams kyi lha’i miṅ la
+      start: 0
+      end: 140
+  80700323834a47f3b6033430431763de:
+    work_id: WE89D8EDC
+    span:
+      vol: CVIII_§158. bsam gtan daṅ po’i sa’i miṅ la
+      start: 0
+      end: 65
+  595e4e10a7b841c08648f783997b984b:
+    work_id: WDE946D8D
+    span:
+      vol: CVIII_§159. bsam gtan gñis pa’i sa’i miṅ la
+      start: 0
+      end: 39
+  f56d020df0b24e58a08841d390129c8a:
+    work_id: W948976BE
+    span:
+      vol: CVIII_§160. bsam gtan gsum pa’i sa’i miṅ la
+      start: 0
+      end: 45
+  78d0b1571bac482d90740c19ed7b3efe:
+    work_id: W4131C494
+    span:
+      vol: CVII_§121. trikarmākārā
+      start: 0
+      end: 250
+  3d3b056440384771a5747e36c7505873:
+    work_id: W98580A90
+    span:
+      vol: CVII_§122. pañcānantarīyāṇi
+      start: 0
+      end: 114
+  695ff564166647f1aa21aadcac76f788:
+    work_id: W228DA2A3
+    span:
+      vol: CVII_§123. pañcopānantarīyāṇi
+      start: 0
+      end: 144
+  305aeee4864748949ac904cae7080e02:
+    work_id: W17EF548C
+    span:
+      vol: CVII_§124. pañcakaṣāyāḥ
+      start: 0
+      end: 84
+  95affb9e058847f291dfcfb3b0131278:
+    work_id: WDA1F3369
+    span:
+      vol: CVII_§125. aṣṭau lokadharmāḥ
+      start: 0
+      end: 95
+  31d2cce71de047e7a296ebcca15ad3f6:
+    work_id: W2D5CB02F
+    span:
+      vol: CVII_§126. nānāguṇanāmāni
+      start: 0
+      end: 1549
+  b3ad2e7707b8487b81488cff282adb5d:
+    work_id: W40C4CAFA
+    span:
+      vol: CVII_§127. skyon du brtsi ba’i miṅ la
+      start: 0
+      end: 817
+  0542d50559194849970ca1a4ccbadff7:
+    work_id: W2EC8E1E1
+    span:
+      vol: CVII_§128. ṣaḍbhogānām apāyasthānāni
+      start: 0
+      end: 98
+  04b02884baf245358ed89994a2d1836f:
+    work_id: W28378404
+    span:
+      vol: CVII_§129. anuttaraparyāyāḥ
+      start: 0
+      end: 257
+  537b1407cd514bac930131a2275b361b:
+    work_id: W3C2B38F4
+    span:
+      vol: CVII_§130. pariśuddhaparyāyāḥ
+      start: 0
+      end: 186
+  277bafa5992b407d9ec647c2eed4f42e:
+    work_id: W9BCF0833
+    span:
+      vol: CVII_§131. nisṛjāparyāyāḥ
+      start: 0
+      end: 932
+  c59ea2d1bb674eb69b2dc70a86c0ca8d:
+    work_id: WF5A1CA69
+    span:
+      vol: CVII_§132. kīrttipraśaṃsāparyāyāḥ
+      start: 0
+      end: 224
+  47df685cbadb4e4ebbde9f0d856a8d6e:
+    work_id: WEE844199
+    span:
+      vol: CVII_§133. nindanāparyāyāḥ
+      start: 0
+      end: 211
+  b8969d362bad45a49bd58b453e54f13e:
+    work_id: W0CC64A4A
+    span:
+      vol: CVII_§134. anukūlapratikūlādayaḥ
+      start: 0
+      end: 394
+  24c13800537e44dfb37d8f35e0d7997b:
+    work_id: W0424354C
+    span:
+      vol: CVII_§135. bṛhatparīttādayaḥ
+      start: 0
+      end: 424
+  e2aed777d3284b7cb125ff0561de4bd3:
+    work_id: W56BB7978
+    span:
+      vol: CVII_§136. mitrakāryam
+      start: 0
+      end: 230
+  cc13a7a67ca64a47b3fdad9e7fd2577f:
+    work_id: W6C3C1706
+    span:
+      vol: CVII_§137. amitrakarma
+      start: 0
+      end: 125
+  679b54c147dc4e269206eff6bce7e95f:
+    work_id: W85558D89
+    span:
+      vol: CVII_§138. kuśalādayaḥ
+      start: 0
+      end: 196
+  e7b1b5bff49146e484d5772102908a75:
+    work_id: W97D7A4A9
+    span:
+      vol: CVII_§139. dharmadeśanāśravaṇādināmāni
+      start: 0
+      end: 886
+  c1bc3de2004d47fb82971f29e35dd788:
+    work_id: WC6ADF065
+    span:
+      vol: CVII_§140. māyādayaḥ
+      start: 0
+      end: 451
+  cc6ad923d6a94923b7f27c5e81b19160:
+    work_id: WB06708D9
+    span:
+      vol: CVI_§101. catvāri mahābhūtāni; rūpaskandhanāmāni
+      start: 0
+      end: 998
+  7e88ef298ab14db592d05324f3cfd636:
+    work_id: W99DD9D1D
+    span:
+      vol: CVI_§102. vedanāskandhanāmāni
+      start: 0
+      end: 53
+  8be4476bf2a14acebdcb351256c601da:
+    work_id: WDD477AA6
+    span:
+      vol: CVI_§103. saṃjñāskandhanāmāni
+      start: 0
+      end: 63
+  d32b5a6722b740938a1f5cf01e3d5906:
+    work_id: W2306291E
+    span:
+      vol: CVI_§104. caitasikadharmāḥ
+      start: 0
+      end: 1059
+  5034aed083bd48e5a1001dfd5e91b849:
+    work_id: W66353EE6
+    span:
+      vol: CVI_§105. vijñānanamāni
+      start: 0
+      end: 163
+  ddfbe3db03874526abe1ea6cc3aaf06f:
+    work_id: W59CF6F98
+    span:
+      vol: CVI_§106. dvādaśāyatanāni
+      start: 0
+      end: 194
+  45a5aa32986342ea8fe5a78b697f748f:
+    work_id: WAA1DF0AA
+    span:
+      vol: CVI_§107. aṣṭādaśadhātavaḥ
+      start: 0
+      end: 300
+  7b3311c64a1142a088df44c8066aad21:
+    work_id: W8306DC46
+    span:
+      vol: CVI_§108. dvāviṃśatīndriyāṇi
+      start: 0
+      end: 366
+  bae745e01cf846ab8dc270f8d99a13c3:
+    work_id: WF6C1C324
+    span:
+      vol: CVI_§109. skandhadhātvāyatanendriyāntargatāni pāda_antarāṇi
+      start: 0
+      end: 1547
+  f4b2d8a2264548fea5179858be58f04b:
+    work_id: W0B39EFBD
+    span:
+      vol: CVI_§110. rāgāḥ
+      start: 0
+      end: 502
+  0d9a9b5652a8445aad5814fa77eb4575:
+    work_id: W945C5C55
+    span:
+      vol: CVI_§111. trayaduḥkhatā
+      start: 0
+      end: 69
+  1c88a589e3404187894dee88ffd3f651:
+    work_id: W4CF5B7A4
+    span:
+      vol: CVI_§112. punar aṣṭau duḥkhatāḥ
+      start: 0
+      end: 219
+  3e746bd5c46b4b889abbd9ae938be25e:
+    work_id: W0A2ECA4F
+    span:
+      vol: CVI_§113. dvādaśāṅga pratītyasamutpādaḥ
+      start: 0
+      end: 197
+  b313138728f84243aebc9a3de9b44227:
+    work_id: W11B4BF77
+    span:
+      vol: CVI_§114. ṣaḍ hetavaḥ
+      start: 0
+      end: 118
+  4568e17928994aa1bd911309d63fc516:
+    work_id: W7427D9DD
+    span:
+      vol: CVI_§115. catvāraḥ pratyayāḥ
+      start: 0
+      end: 95
+  603e968758824c60a37402a29f564828:
+    work_id: W8BB5997E
+    span:
+      vol: CVI_§116. pañcaphalāni
+      start: 0
+      end: 95
+  d552d29735d3429b8f4940ce37f2369b:
+    work_id: W98D61816
+    span:
+      vol: CVI_§117. catvāro yonayaḥ
+      start: 0
+      end: 76
+  a3d2b4b756624bb18bb686424f9bbfba:
+    work_id: W3900DBE6
+    span:
+      vol: CVI_§118. catvāra āhārāḥ
+      start: 0
+      end: 112
+  6331dd67d80840a3be49684a4ce8af9e:
+    work_id: WC4B634CF
+    span:
+      vol: CVI_§119. navasattva_āvāsāḥ
+      start: 0
+      end: 368
+  1f797619ef1b499c834a534d6b27e559:
+    work_id: W9318E24C
+    span:
+      vol: CVI_§120. aṣṭa_avakṣaṇāḥ
+      start: 0
+      end: 138
+  3dfbc1e476134053838d49b237cde7f6:
+    work_id: W8DBD1679
+    span:
+      vol: CV_§100. pañcopādānaskandhāḥ
+      start: 0
+      end: 102
+  7abff2f5c39240bb8bac942d67f9be93:
+    work_id: WBD210233
+    span:
+      vol: CV_§81. nava pramodyapūrvakā dhasmāḥ
+      start: 0
+      end: 340
+  cd62176bf92e416a813cada8d9815ac1:
+    work_id: W2C21B7B9
+    span:
+      vol: CV_§82. ṣaḍ niḥsaraṇīyadhātavaḥ
+      start: 0
+      end: 205
+  38ec55d4cbf246f3a402c56040eac805:
+    work_id: W4433B39A
+    span:
+      vol: CV_§83. catvāri devamanuṣyāṇāṃ cakrāṇi
+      start: 0
+      end: 143
+  4c4a031c3bd24946a3397b0d07fc85c1:
+    work_id: W7C490114
+    span:
+      vol: CV_§84. tāpasaṃvāraparyāyāḥ
+      start: 0
+      end: 513
+  581c30328a53437a8d535a720454d2da:
+    work_id: W367102FF
+    span:
+      vol: CV_§85. yogāṅgāni
+      start: 0
+      end: 337
+  84c53ef0fbb34b0a88d847571bdae597:
+    work_id: W419DEEA3
+    span:
+      vol: CV_§86. catvāri vyākaraṇāni
+      start: 0
+      end: 103
+  f1bbe7cd93f047449b26b2b8f627f234:
+    work_id: W86BA4516
+    span:
+      vol: CV_§87. trīṇi lakṣaṇāni
+      start: 0
+      end: 80
+  884d0fcdc09045bea0ea04797eefed9f:
+    work_id: W55E391C3
+    span:
+      vol: CV_§88. catvāro ’bhiprāyāḥ
+      start: 0
+      end: 101
+  c16263bcc4e244f1986a587cdf8193be:
+    work_id: WA50F50AC
+    span:
+      vol: CV_§89. catvāro ’bhisaṃdhayaḥ
+      start: 0
+      end: 107
+  f5dd86cd6b1d41b19fc46cce8e217fd5:
+    work_id: W2D9AC79F
+    span:
+      vol: CV_§90. śamathavipaśyanāḥ
+      start: 0
+      end: 65
+  24d057361a524d9c86c9b03d0ee7836e:
+    work_id: W6F7FF788
+    span:
+      vol: CV_§91. daśākuśalāni
+      start: 0
+      end: 84
+  a7f715a24d7f41e1b2d745a195eeafa4:
+    work_id: W3333F573
+    span:
+      vol: CV_§92. daśakuśalāni
+      start: 0
+      end: 330
+  7d984fb5faf5403bbf6a6dc7af0f0228:
+    work_id: W1529491A
+    span:
+      vol: CV_§93. puṇyakriyāvastūni
+      start: 0
+      end: 139
+  c6625ef44d9644cb869b4eafe75ca233:
+    work_id: W9B842DC2
+    span:
+      vol: CV_§94. paramārthaparyāyāḥ
+      start: 0
+      end: 323
+  274fb413e7f647f2b1dab2042be4da12:
+    work_id: WA19B7FF7
+    span:
+      vol: CV_§95. nirvāṇaparyāyāḥ
+      start: 0
+      end: 130
+  47f30291795c4cef870afef4c4740d3f:
+    work_id: WE7537779
+    span:
+      vol: CV_§95A
+      start: 0
+      end: 44
+  870ea596329a4b13911bf90c4c1ad620:
+    work_id: WC3ADFF22
+    span:
+      vol: CV_§95B
+      start: 0
+      end: 61
+  27d8331932b247709c42b1feb36da6e2:
+    work_id: WC563E446
+    span:
+      vol: CV_§96. śaraṇaparyāyāḥ
+      start: 0
+      end: 133
+  497c6a9705bd402d9a9cd769193866d0:
+    work_id: W4E0B7B2E
+    span:
+      vol: CV_§97. mānanāparyāyāḥ
+      start: 0
+      end: 434
+  ec13d2b6064049da9f2d7331f2c92433:
+    work_id: W2A03F620
+    span:
+      vol: CV_§98. spro źiṅ brtson pa la sogs pa’i miṅ la
+      start: 0
+      end: 488
+  d7c2f402383f481cadbc72ed0c218bb3:
+    work_id: W481A3219
+    span:
+      vol: CV_§99. abhayaparyāyaḥ
+      start: 0
+      end: 196
+  a466593e46424daa9196b0b949d42394:
+    work_id: W528AF48F
+    span:
+      vol: CXIII_§241. puṣpanāmāni
+      start: 0
+      end: 1130
+  475058a8440748b98b9cd02e4a5d6d08:
+    work_id: W53033C73
+    span:
+      vol: CXIII_§242. puṣpamūlādināmāni
+      start: 0
+      end: 348
+  5ec295a3726a45999e5cc4b95b953f6c:
+    work_id: W0186C71D
+    span:
+      vol: CXIII_§243. puṣpaguṇanāmāni
+      start: 0
+      end: 102
+  0c1b94ba05f4412e86c2d6b639c4f6cd:
+    work_id: W3843B82D
+    span:
+      vol: CXIII_§244. sarvadhūpanāmāni
+      start: 0
+      end: 193
+  fd710f124c744a4aacb3b935f7cb1573:
+    work_id: W371ADB42
+    span:
+      vol: CXIII_§245. skad go ’dun gyi miṅ la
+      start: 0
+      end: 22576
+  1a16f0f612c64d469550c982802f2feb:
+    work_id: WB78130B1
+    span:
+      vol: CXIII_§246. āryamahāvaipulyabuddhāvataṃsakasutrāntavittagaṇanānāmāni
+      start: 0
+      end: 1545
+  7eb5cabd457e4865b45eb34c29ac5d9a:
+    work_id: W83F71142
+    span:
+      vol: CXIII_§247. āryagaṇḍavyūhodbhavitasaṃkhyānāmāni
+      start: 0
+      end: 1648
+  d08d4739bb8d497aadadf31b69a7f71d:
+    work_id: W9C98EE33
+    span:
+      vol: CXIII_§248. lalitavistarodbhavitasaṃkhyānāmāni
+      start: 0
+      end: 1426
+  9391110687b340aaad5fad5810669942:
+    work_id: W24D0DE20
+    span:
+      vol: CXIII_§249. abhdharmodbhavitasaṃkhyānāmāni
+      start: 0
+      end: 686
+  5b6e2e9e3af74b6fa533d05ffc57d967:
+    work_id: W7C9EE7C9
+    span:
+      vol: CXIII_§250. ’jig rten pa’i graṅ kyi miṅ la
+      start: 0
+      end: 1830
+  d644ad30645c47d3b8627b58fbcfd3e2:
+    work_id: W6A026879
+    span:
+      vol: CXIII_§251. rdul phra mo las bsgyur te dpag tshad la sogs par bsgre ba’i
+        miṅ la
+      start: 0
+      end: 219
+  52452a8614bc40bdbd99fcb4327ff877:
+    work_id: W904E1EDA
+    span:
+      vol: CXIII_§252. stobs bcur bsgur te bsgre ba’i miṅ la
+      start: 0
+      end: 142
+  11f2f06972f64e1d9cae2ef582eec3bf:
+    work_id: W500399C1
+    span:
+      vol: CXIII_§253. dus kyi miṅ la
+      start: 0
+      end: 1380
+  99f76d8f1cc94b0ea4843020438672bf:
+    work_id: WBF61BCFF
+    span:
+      vol: CXIII_§254. digvidignāmāni
+      start: 0
+      end: 194
+  ada01867c69d47c78fd7a43d09d4e723:
+    work_id: W4C2B63F8
+    span:
+      vol: CXIII_§255. bslab pa bca’ ba’i phan yon bcu daṅ ltuṅ byed sde lṅa la sogs
+        pa’i miṅ las phan yon bcu’i miṅ las
+      start: 0
+      end: 413
+  c651685493ef4b54a6408964a9a57da5:
+    work_id: W11FE56F0
+    span:
+      vol: CXIII_§256. ltuṅ byed sde lṅa daṅ ma ṅes pa’i miṅ la
+      start: 0
+      end: 189
+  31d109d2a274488da6c9d2b28c9a91b6:
+    work_id: WEC21D994
+    span:
+      vol: CXIII_§257. phas pham pa bźi’i miṅ la
+      start: 0
+      end: 65
+  e956ce72bf4248cca04d54819eeef35a:
+    work_id: W73B41043
+    span:
+      vol: CXIII_§258. dge ʼdun lhag ma bcu gsum ma ṅes pa‘i miṅ la
+      start: 0
+      end: 231
+  29bde13b134e4001a7de3ec940ffe79e:
+    work_id: W64B61FE9
+    span:
+      vol: CXIII_§259. naiḥsargikāḥ pāyattikāḥ
+      start: 0
+      end: 25
+  4f6d2a3985924920bb4e4f701f7ab1ee:
+    work_id: WCF3CE385
+    span:
+      vol: CXIII_§259A. prathamaṃ daśakam
+      start: 0
+      end: 144
+  8197b4e4fd8a4e8d8db333a42da32b26:
+    work_id: WDAE47959
+    span:
+      vol: CXIII_§259B. dvitīyaṃ daśakam
+      start: 0
+      end: 237
+  744b77c452ac459fb9de039003fece83:
+    work_id: WEB943435
+    span:
+      vol: CXIII_§259C. tṛtīyaṃ daśakam
+      start: 0
+      end: 240
+  baa92d354988431f89fea9f5f92b32c0:
+    work_id: WE5028D98
+    span:
+      vol: CXIII_§260. navatipātayantikādharmāḥ
+      start: 0
+      end: 48
+  35e9866211464dd1b0ad2d5626def69e:
+    work_id: WE300B56F
+    span:
+      vol: CXIII_§260A. prathamaṃ daśakam
+      start: 0
+      end: 207
+  9ce88a3abf874d40ac3448c74c61e095:
+    work_id: W09BE3E0F
+    span:
+      vol: CXIII_§260B. dvitīyaṃ daśakam
+      start: 0
+      end: 248
+  14d6c60b392d4c3ea89d1dc1a9b5e55f:
+    work_id: W73849074
+    span:
+      vol: CXIII_§260C. tṛtīyaṃ daśakam
+      start: 0
+      end: 283
+  bdcc82bd98e0416399020a2f24470f4b:
+    work_id: W2A51B052
+    span:
+      vol: CXIII_§260D. caturthaṃ daśakam
+      start: 0
+      end: 245
+  63ca109324b7470da5d2e155a907975d:
+    work_id: W414EB2D5
+    span:
+      vol: CXIII_§260E. pañcamaṃ daśakam
+      start: 0
+      end: 257
+  27cd0d0efe534a828d23c116130e161b:
+    work_id: W66B860D6
+    span:
+      vol: CXIII_§260F. ṣaṣṭhaṃ daśakam
+      start: 0
+      end: 234
+  11a6ac97a79f4e9ca701498f55e773d4:
+    work_id: WF74355AA
+    span:
+      vol: CXIII_§260G. saptamaṃ daśakam
+      start: 0
+      end: 217
+  016e2b23ae4745aba016dd5e80e22a95:
+    work_id: W14A7B176
+    span:
+      vol: CXIII_§260H. aṣṭamaṃ daśakam
+      start: 0
+      end: 243
+  d0d0c8b5c4c3446fba8bf6e781e85e3c:
+    work_id: W7841EEF5
+    span:
+      vol: CXIII_§260I. navamaṃ daśakam
+      start: 0
+      end: 248
+  df7672d1911440ffb68a3af246358bd0:
+    work_id: W80166F6E
+    span:
+      vol: CXII_§221. gar thabs kyi rnams graṅs la
+      start: 0
+      end: 115
+  2e917168283547cf9335ad32993720ea:
+    work_id: WF419C322
+    span:
+      vol: CXII_§222. brāhmaṇavihārakarmāṇi
+      start: 0
+      end: 346
+  febb65ff289f449db57011200fefea9e:
+    work_id: W5752EF5F
+    span:
+      vol: CXII_§223. bram ze’i las rnam pa drug gi miṅ la
+      start: 0
+      end: 97
+  93ba0a849dae416c814853f7a24f6ece:
+    work_id: W3CC555D7
+    span:
+      vol: CXII_§224. skad go mthun gyi miṅ la
+      start: 0
+      end: 4739
+  18761dc22fb94533a3b6e13680c5c5ac:
+    work_id: W5922A2AD
+    span:
+      vol: CXII_§225. svargakāmādīnām nāmāni
+      start: 0
+      end: 430
+  a45ef47d34fb47558d83e2ef6a87390e:
+    work_id: W0E5C69CC
+    span:
+      vol: CXII_§226. skabs nas tshig gi phrad du ’byuṅ ba‘i miṅ la
+      start: 0
+      end: 900
+  2664a7c2be4e433396096f5edfa0718e:
+    work_id: W2DCD8FE2
+    span:
+      vol: CXII_§227. mkhar daṅ gnas daṅ gos la sogs pa’i lam sraṅ gi miṅ la
+      start: 0
+      end: 1920
+  f3476b621a8d49989b1d4138c643cbeb:
+    work_id: W449C0D43
+    span:
+      vol: CXII_§228. śiṅ rta daṅ thoṅ gśol gyi yan lag tu gtogs pa’i miṅ la
+      start: 0
+      end: 137
+  858a43960fff4c55b555398231d84ea8:
+    work_id: W4DFC0FF6
+    span:
+      vol: CXII_§229. ’bru sna tshogs kyi miṅ la
+      start: 0
+      end: 248
+  6ae68ed7b6e748f68ca2f89f5f4bb682:
+    work_id: W745F7C57
+    span:
+      vol: CXII_§230. dus ston gyi miṅ la
+      start: 0
+      end: 118
+  0d3fa9845bde42b1bd10b46bf7f3deef:
+    work_id: W27CA2C64
+    span:
+      vol: CXII_§231. źo mar daṅ zas skom gyi miṅ la
+      start: 0
+      end: 1013
+  d07afff46a1547a4896c1c2e49a406ff:
+    work_id: W90422BA0
+    span:
+      vol: CXII_§232. oṣadhināmāni
+      start: 0
+      end: 981
+  113ce731345d47559b31e67625e87d98:
+    work_id: WAE934DFD
+    span:
+      vol: CXII_§233. vastranāmāni
+      start: 0
+      end: 604
+  27c43a856a3d4707b02d071600bb7372:
+    work_id: W9F2E7753
+    span:
+      vol: CXII_§234. pariṣkāranāmāni
+      start: 0
+      end: 330
+  8f88fab03d88425b88f83792eccf3a7e:
+    work_id: WCF0DC630
+    span:
+      vol: CXII_§235. raṅganāmāni
+      start: 0
+      end: 338
+  385de6457505443996e5961536022e28:
+    work_id: W79140E72
+    span:
+      vol: CXII_§236. maṇiratnanāmāni
+      start: 0
+      end: 655
+  bbf6748f0a1a461f97311857e08e2a6f:
+    work_id: WD335F896
+    span:
+      vol: CXII_§237. śaṅkhādināmāni
+      start: 0
+      end: 149
+  7eed9d60a1f94105aa64e9f83837c2e4:
+    work_id: WB63EC692
+    span:
+      vol: CXII_§238. sarvālaṃkāranāmāni
+      start: 0
+      end: 1062
+  f7f646c00e2c4b12a055451abae8fcfa:
+    work_id: WC8763448
+    span:
+      vol: CXII_§239. go mtshon gyi miṅ la
+      start: 0
+      end: 403
+  1a8db3a9a596454db3a3fdbc041a89e2:
+    work_id: W0769AF3B
+    span:
+      vol: CXII_§240. pūjāpariṣkārāḥ
+      start: 0
+      end: 555
+  b414e90966184722a4fa5ac68e1f60c1:
+    work_id: W4C66BB69
+    span:
+      vol: CXIV_§261. pratideśanīyāni
+      start: 0
+      end: 120
+  1f6f0bae46b749cb8eb06fcdd621402d:
+    work_id: W0220C07E
+    span:
+      vol: CXIV_§262. bslab pa’i chos maṅ po’i miṅ la
+      start: 0
+      end: 4080
+  8bb34b443ce14b7d8a8eae9c75a975aa:
+    work_id: WFAE53938
+    span:
+      vol: CXIV_§263. adhikaraṇaśamathā
+      start: 0
+      end: 196
+  c13491c41a8844c8884693ef7c8ac2e7:
+    work_id: W0BA5F105
+    span:
+      vol: CXIV_§264. chad pas bcad ciṅ gso ba la sogs pa’i miṅ la
+      start: 0
+      end: 387
+  2053a800a844485d854fea8ee56ff4c3:
+    work_id: W889F496A
+    span:
+      vol: CXIV_§265. gsol ba daṅ las la sogs pa’i miṅ la
+      start: 0
+      end: 452
+  27bc8e8b1f6f48028dbe180e54ae5fe9:
+    work_id: W3EA42A42
+    span:
+      vol: CXIV_§266. triśaraṇagamanam
+      start: 0
+      end: 146
+  c70707f81d4e4e1192488a4fc2ddf2c5:
+    work_id: WA25782AA
+    span:
+      vol: CXIV_§267. bslab pa’i gźi brgyad la sogs pa’i miṅ la
+      start: 0
+      end: 361
+  b35e8f9c54b24b20b6b1e1e76b6a2a7b:
+    work_id: WF294FA92
+    span:
+      vol: CXIV_§268. catvārah śramaṇakārakadharmāḥ
+      start: 0
+      end: 185
+  c4410b6c5a284061a20fc56f5fd5e2e9:
+    work_id: WC4971FD6
+    span:
+      vol: CXIV_§269. rab tu ’byuṅ ba la sogs pa’i miṅ la
+      start: 0
+      end: 645
+  62f6873fe6d74bdd88523fa8c9af8880:
+    work_id: WBFB8CB09
+    span:
+      vol: CXIV_§270. rab tu byuṅ ba’i gźi la
+      start: 0
+      end: 2660
+  0016e84625a94942a702bc8b8c96f267:
+    work_id: WB7940DB7
+    span:
+      vol: CXIV_§271. yo byad bcu gsum gyi miṅ la
+      start: 0
+      end: 247
+  824f020667e34f2486aa56cfc5d60993:
+    work_id: W58DC76B9
+    span:
+      vol: CXIV_§272. dge sbyod gi yo byad kyi miṅ la
+      start: 0
+      end: 1700
+  babf68dfb8e1498cacdf72d15d34372d:
+    work_id: WF11C3534
+    span:
+      vol: CXIV_§273. gaṅ zag bcu gñis miṅ la
+      start: 0
+      end: 390
+  3890206b8eac4121b08db3bfcc3daef9:
+    work_id: W8D8EA102
+    span:
+      vol: CXIV_§274. sde pa bżi rnam pa
+      start: 0
+      end: 371
+  c4abcd68c9394f08b825fdbc09e1c40f:
+    work_id: W5055AA75
+    span:
+      vol: CXIV_§275. gżi bcu bdun la
+      start: 0
+      end: 294
+  ad00cc6861db4bf9acf8924176861cd8:
+    work_id: W1149742D
+    span:
+      vol: CXIV_§276. chu ruṅ ba rnam pa lṅa’i miṅ la
+      start: 0
+      end: 93
+  376b16939a8243b49288d7e39cfe7ddb:
+    work_id: W2D12F515
+    span:
+      vol: CXIV_§277. dge sbyoṅ gi skyon du brtsi ba la
+      start: 0
+      end: 546
+  c3b5015d4fa34cfc860c178500c62276:
+    work_id: W114E82D6
+    span:
+      vol: CXIV_§278. gtsug lag khaṅ
+      start: 0
+      end: 75
+  70f9634db4974ddf9a9dfabdf002ceb6:
+    work_id: W82B5C0C2
+    span:
+      vol: CXIV_§279. gos kyi gźi’i miṅ la
+      start: 0
+      end: 652
+  714fac8b0c90406bb6cd968a35c9b731:
+    work_id: W5FEF5909
+    span:
+      vol: CXIV_§280. ’dul ba las bstus pa’i skad thor bu pa
+      start: 0
+      end: 4945
+  26851b8779ab454f83e566da23d12202:
+    work_id: W4D3EF03D
+    span:
+      vol: CXI_§201. mu stegs pa rigs pa can gyi gźuṅ las ’byuṅ ba
+      start: 0
+      end: 281
+  7ebbf722fae648a1b06f3b8552b6ab87:
+    work_id: W4499555A
+    span:
+      vol: CXI_§202. graṅs can gyi gźuṅ las ’byuṅ ba
+      start: 0
+      end: 481
+  88206bd01a6b4bd19e3c576b4531dec5:
+    work_id: WC242661D
+    span:
+      vol: CXI_§203. spyod pa can gyi gźuṅ la ’byuṅ ba
+      start: 0
+      end: 245
+  26caee486f6f44b2817f63ab7d44088c:
+    work_id: W4F732221
+    span:
+      vol: CXI_§204. bye brag pa’i tshig gi don drug la sogs pa’i miṅ la
+      start: 0
+      end: 492
+  3af0ada0c81e4762898a5146eab9a4be:
+    work_id: W75DCD547
+    span:
+      vol: CXI_§205. tshad ma maṅ po smra ba las ’byuṅ ba
+      start: 0
+      end: 33
+  07b5ff276ab9433a9553376216965e16:
+    work_id: W5048B50B
+    span:
+      vol: CXI_§206. lta ba sna tshogs kyi miṅ la
+      start: 0
+      end: 182
+  58a90e303b0145d0b310e834d9c2487a:
+    work_id: W170E6676
+    span:
+      vol: CXI_§207. caturdaśāvyākṛtamūlāni
+      start: 0
+      end: 434
+  3b58f47ee71b4689ba5f0e2eda8f5838:
+    work_id: WACA4B7E6
+    span:
+      vol: CXI_§208. tīrthakātmaparyāyāḥ
+      start: 0
+      end: 170
+  12959fff0cbf4589a72222694665f09e:
+    work_id: W4F38A7CA
+    span:
+      vol: CXI_§209. viṃśatiśikharasamudgataḥ satkāyadṛṣṭiśailaḥ
+      start: 0
+      end: 388
+  2449112f62cb4b8fba86fd314059715e:
+    work_id: W7E226B53
+    span:
+      vol: CXI_§210. vyā ka ra ṇa’i skad kyi miṅ la
+      start: 0
+      end: 384
+  ca7d167ea370421b8862c215d8c9e812:
+    work_id: W34C34F84
+    span:
+      vol: CXI_§211. saptavibhaktikāyaḥ
+      start: 0
+      end: 311
+  3144ac318d814f09ab41c1fd83509019:
+    work_id: W8AEDEC08
+    span:
+      vol: CXI_§212. yi dags su gtogs pa’i miṅ la
+      start: 0
+      end: 149
+  d0534080ed4e425f8e8a5d642bd47f8e:
+    work_id: WD811828F
+    span:
+      vol: CXI_§213
+      start: 0
+      end: 1631
+  a4e1094239894c9d8b22490b53caedb6:
+    work_id: WFA8F7F8C
+    span:
+      vol: CXI_§215. sems can dmyal ba daṅ gcad ciṅ gtub la sogs pa’i miṅ la
+      start: 0
+      end: 100
+  5d9e2eab8242421cbbc3fc1d9d972169:
+    work_id: W09D62014
+    span:
+      vol: CXI_§216. graṅ ba’i sems can dmyal ba’ʼmiṅ la
+      start: 0
+      end: 421
+  9f881e24dd3347f59622866694a62a0c:
+    work_id: W1F8BBD51
+    span:
+      vol: CXI_§217. aṣṭādaśavidyā sthānāni
+      start: 0
+      end: 187
+  6b255826504e4569ae97a6a4498743f7:
+    work_id: W35A31D21
+    span:
+      vol: CXI_§218. bzo’i gnas daṅ sgyu rtsal gyi miṅ la
+      start: 0
+      end: 503
+  8d8a7dff87e04b259a9141ae89717359:
+    work_id: W46BF08E7
+    span:
+      vol: CXI_§219. rol mo byed pa daṅ spyad kyi miṅ la
+      start: 0
+      end: 257
+  489c21ef96884bfca4de0ca0e76d92b0:
+    work_id: WB8FF0E8B
+    span:
+      vol: CXI_§220. glu dbyaṅs kyi miṅ la
+      start: 0
+      end: 111
+  4b31ede974724af3b220b30905246d57:
+    work_id: W93BD313B
+    span:
+      vol: CXV_§281. drug sde’i miṅ la
+      start: 0
+      end: 60
+  ea5d08fc062f4d6e87e7a31e9430c724:
+    work_id: WEFBBF4BC
+    span:
+      vol: CXV_§282. ma ma bźi‘i miṅ la
+      start: 0
+      end: 66
+  773c46f7913c4adbb91826db2a2460d8:
+    work_id: WC9812C98
+    span:
+      vol: CXV_§283. vyādhināmāni
+      start: 0
+      end: 1062
+  be82e57e087c49d187c6f1000537ef2e:
+    work_id: W22923C23
+    span:
+      vol: CX_§181. cakravartirājānaḥ
+      start: 0
+      end: 708
+  d10254e8f4fe421ea36f137982930bae:
+    work_id: WAAFF32B1
+    span:
+      vol: CX_§182. cakravartināṃ saptaratnādiguṇakramaḥ
+      start: 0
+      end: 282
+  296a016b1dd04eed9caf9e4d5e4c7744:
+    work_id: WADDCB73D
+    span:
+      vol: CX_§183. sātirekaputrasahasrāṇāṃ guṇapaddhatiḥ
+      start: 0
+      end: 273
+  05daac5f3a1946f38f9dc5f66302652f:
+    work_id: W558F224D
+    span:
+      vol: CX_§184. caturaṅgabalanāmāni
+      start: 0
+      end: 68
+  b3f4009e25eb49ac96125d4eb79e6ecd:
+    work_id: WAE4AD903
+    span:
+      vol: CX_§185. pradeśarājanāmāni
+      start: 0
+      end: 235
+  6e5577a663784740a86a1264dbf4f5ea:
+    work_id: WF6CAE8F0
+    span:
+      vol: CX_§186. pāṇḍavādināmāni
+      start: 0
+      end: 166
+  636a1871b22546639741ed0cea818e5d:
+    work_id: WDB85AA2D
+    span:
+      vol: CX_§187. manuṣyakramaḥ
+      start: 0
+      end: 2480
+  bbf80a575b8a40509a7a7befcc023177:
+    work_id: WD4323442
+    span:
+      vol: CX_§188. catvāro varṇāḥ
+      start: 0
+      end: 378
+  cb8f46e82271476e9c5c7ef920a3083a:
+    work_id: W57B7C48A
+    span:
+      vol: CX_§189. pha ma la sogs pa gñen bśes kyi miṅ la
+      start: 0
+      end: 618
+  b828300b29bd4256b0a8841e2992c070:
+    work_id: WE7AD6E59
+    span:
+      vol: CX_§190. śarīrāṅgapratyaṅgāni
+      start: 0
+      end: 1403
+  f85b2ea97baa4d36a7c4cc4891bdcd93:
+    work_id: W51590504
+    span:
+      vol: CX_§191. lus su ’gyur ba’i rim pa’i miṅ la
+      start: 0
+      end: 42
+  8414f474464845c0a95b2c6c1414cc11:
+    work_id: WF984312B
+    span:
+      vol: CX_§193
+      start: 0
+      end: 104
+  3ddb0209d76f465c96a5030a50fc94b8:
+    work_id: WB19B0B58
+    span:
+      vol: CX_§194. rgas pa daṅ na ba’i miṅ la
+      start: 0
+      end: 243
+  1daba17c76e244dca6d5c12043ff719b:
+    work_id: W3939C86B
+    span:
+      vol: CX_§195 girināmāni
+      start: 0
+      end: 268
+  0a9053fe97ac4a0dbf54020f4729e639:
+    work_id: W85494A0D
+    span:
+      vol: CX_§195. yul gyi miṅ la
+      start: 0
+      end: 482
+  e10c877e8c974d5fa1be445b98115d68:
+    work_id: WF61CBF16
+    span:
+      vol: CX_§196. rgya mtsho’i miṅ gi rnam graṅs daṇ chu daṅ gliṅ la sogs pa’i miṅ
+        la
+      start: 0
+      end: 331
+  55a3adf7e0124719a344783e2b475adb:
+    work_id: W3AC41B5F
+    span:
+      vol: CX_§197. śiṅ gi miṅ la
+      start: 0
+      end: 470
+  f28db25800d54770aec90320b5aa3d60:
+    work_id: W08548AC7
+    span:
+      vol: CX_§198. mantranāyavanirgatāni
+      start: 0
+      end: 2299
+  356aba43777a4fd98f2d932eef65309f:
+    work_id: W64444ECC
+    span:
+      vol: CX_§199. utpātanimittāni
+      start: 0
+      end: 172
+  55b003f9ffff442eb363ee0a9af49fd2:
+    work_id: WFAE000EE
+    span:
+      vol: CX_§200. pramāṇatarkanirgatārthāḥ
+      start: 0
+      end: 2029
+  10145775f11048d8945c80621e4572bb:
+    work_id: WF69FAB3F
+    span:
+      vol: Colophon
+      start: 0
+      end: 50
+  e62ef9085f614fed9215fa88868cddf1:
+    work_id: WC6A59684
+    span:
+      vol: Preface
+      start: 0
+      end: 63
+  4ae9ea10ca0c4f808e6688bfbd47ef45:
+    work_id: WE403BD43
+    span:
+      vol: Title
+      start: 0
+      end: 15
